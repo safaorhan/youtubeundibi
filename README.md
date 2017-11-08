@@ -1,6 +1,6 @@
 # Youtube'un Dibi Hareketi
 
-Youtube'un dibi hareketi tavsiye ağacına [buradan](https://github.com/safaorhan/youtubeundibi/wiki/.K%C3%B6k-Dizin) ulaşabilirsiniz.
+Youtube'un dibi hareketi tavsiye ağacına [buradan](https://github.com/safaorhan/youtubeundibi/wiki/Home) ulaşabilirsiniz.
 
 ## Nedir?
 Çağımızın görsel tüketim ortamı olan youtube'da kaliteli içerik üreten insanları kaliteli içerik tüketmek isteyen insanlarla buluşturmayı hedefleyen hareket. 30 Ekim 2017 tarihinde [Konsol Üssü](https://github.com/safaorhan/youtubeundibi/wiki/Konsol-Ussu) kanalında içerik üreten Murat Sönmez tarafından başlatılmıştır. Bu hareketin anlatıldığı videoya [buradan](https://www.youtube.com/watch?v=7kMRi5a_Frg) ulaşabilirsiniz.
