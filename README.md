@@ -1,4 +1,4 @@
-# Youtube'un Dibi Hareketi
+# Youtube'un Dibi Hareketi:
 
 Youtube'un dibi hareketi tavsiye ağacına [buradan](https://github.com/safaorhan/youtubeundibi/wiki/Home) ulaşabilirsiniz.
 
